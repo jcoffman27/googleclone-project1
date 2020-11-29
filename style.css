@@ -1,0 +1,192 @@
+.navbar{
+    margin-top: 10px;
+    padding: 0;
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    width: 100%;
+    flex-basis: 100%;
+    justify-content: flex-end;
+}
+
+.email{
+    display: inline;
+
+}
+
+.images{
+    display: inline;
+    padding-left: 15px;
+
+}
+
+.moreGoogleProducts{
+    height: 25px;
+    width: 25px;
+    display: inline;
+    padding-left: 15px;
+
+}
+
+
+.profilePhoto{
+    height: 30px;
+    width: 30px;
+    display: inline;
+    padding-left: 15px;
+
+}
+
+.main-content{
+    display: flex;
+    width: 100%;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+
+}
+
+.logo{
+    height: 100px;
+    width: 400px;
+    display: flex;
+    margin-top: 125px;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.googleLogo{
+    margin:0;
+    padding: 0;
+    height:75px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+
+
+#searchBar{
+height:45px;
+padding-left:10px;
+border-radius: 20px;
+border-color: rgb(221, 213, 213);
+width: 500px;
+margin-bottom:25px;
+display: flex;
+
+justify-content: center;
+align-items: center;
+justify-items: center;
+}
+
+.googleVoice{
+    height: 25px;
+    width: 25px;
+    display: flex;
+    flex-direction: row;
+;
+
+}
+
+.searchButton{
+    padding: 10px;
+    margin: 2.5px;
+}
+
+.buttonsContainer{
+    display: flex;
+justify-content: center;
+align-items: center;
+justify-items: center;
+}
+.feelingLuckyButton{
+    padding: 10px;
+    margin: 2.5px;
+}
+
+.languageOffer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.languageOffer{
+    margin: 20px;
+}
+
+footer {
+
+}
+
+
+.footerLinks{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    height: 215px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.footerLinksRight{
+    flex: 1;
+    order: 1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    
+}
+
+.footerLinksLeft{
+    order: 0;
+    display:flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+.privacy{
+    display: inline;
+    align-items: flex-end;
+    padding-right: 10px;
+}
+
+.terms{
+    display: inline;
+    padding-right: 10px;
+}
+
+.settings{
+    display: inline;
+    padding-right: 10px;
+}
+
+
+.advertising{
+    display: inline;
+    padding-right: 10px;
+}
+
+.business{
+    display: inline;
+    padding-right: 10px;
+}
+
+.about{
+    display: inline;
+    padding-right: 10px;
+}
+
+.howItWorks{
+    display: inline;
+    padding-right: 10px;
+}
